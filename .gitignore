@@ -12,6 +12,13 @@ build/
 out/
 coverage/
 
+# Java/Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
 # Environment files
 .env
 .env.*
